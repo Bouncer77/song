@@ -85,3 +85,9 @@
     Иногда короткое — для диапазонов (куплет 1–2)
 
     Дефис — для сложных слов
+
+# src
+
+[Academy Musixmatch](https://academy.musixmatch.com/)
+[vk](https://vk.com/@magic_music_record-podgotovili-dlya-vas-podrobnuu-instrukciu-oformleniya-teksto)
+
